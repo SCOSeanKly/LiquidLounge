@@ -1,0 +1,44 @@
+{
+	"imageUrlsLowRes": [
+		"wallImagesLowRes/ggg601.jpg",
+		"wallImagesLowRes/ggg602.jpg",
+		"wallImagesLowRes/ggg603.jpg",
+		"wallImagesLowRes/ggg604.jpg",
+		"wallImagesLowRes/ggg605.jpg",
+		"wallImagesLowRes/ggg606.jpg",
+		"wallImagesLowRes/ggg607.jpg",
+		"wallImagesLowRes/ggg608.jpg",
+		"wallImagesLowRes/ggg609.jpg",
+		"wallImagesLowRes/ggg610.jpg",
+		"wallImagesLowRes/ggg611.jpg"
+	],
+	"imageUrls": [
+		"wallImages/ggg601.jpg",
+		"wallImages/ggg602.jpg",
+		"wallImages/ggg603.jpg",
+		"wallImages/ggg604.jpg",
+		"wallImages/ggg605.jpg",
+		"wallImages/ggg606.jpg",
+		"wallImages/ggg607.jpg",
+		"wallImages/ggg608.jpg",
+		"wallImages/ggg609.jpg",
+		"wallImages/ggg610.jpg",
+		"wallImages/ggg611.jpg"
+	],
+	"appBackgroundColour": "171B21",
+	"title": "LIQUID LOUNGE",
+	"titleColour": "f3f3f3",
+	"creator": "Artemis Prime",
+	"creatorColour": "6d6f65",
+	"creatorImageUrl": "https://raw.githubusercontent.com/duke4e/showData/main/wallSL/images/profile/avatar.jpg",
+	"informationHeader": "INFORMATION",
+	"informationText": "Wallpaper images shown in this app are artistic works and you as a user need the permission of the owner if you want to perform certain acts, such as copying the image or sharing it on the internet. Always contact the owner of the images first.",
+	"socialmedia": {
+		"url": "",
+		"username": "@fresk0_",
+		"platformHeader": "TELEGRAM",
+		"bioInfo": "You can visit Liquid Lounge on Telegram and Twitter where you can find more amazing wallpapers.",
+		"bioURL1": "https://t.co/ZfA0cuUInC",
+		"bioURL2": ""
+	}
+}
