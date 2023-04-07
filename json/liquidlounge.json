@@ -24,6 +24,7 @@
 		"wallImages/IMG_9873.jpg"
 	],
 	"appBackgroundColour": "dcdcdc",
+	"animatedGearImage" : "gearshape",
 	"animatedGearColour": "d638a5",
 	"isShowingThumbName": "false",
 	"appBackgroundImageUrl": "https://raw.githubusercontent.com/SCOSeanKly/LiquidLounge/main/backgroundImage/IMG_2100.JPG",
