@@ -24,8 +24,8 @@
 		"wallImages/IMG_9873.jpg"
 	],
 	"appBackgroundColour": "5C5A5A",
-	"animatedGearImage" : "gearshape",
-	"animatedGearColour": "d638a5",
+	"animatedGearImage" : "gearshape.fill",
+	"animatedGearColour": "A09CED",
 	"isShowingThumbHex": "true",
 	"appBackgroundImageUrl": "https://raw.githubusercontent.com/SCOSeanKly/LiquidLounge/main/backgroundImage/IMG_2100",
 	"title": "LIQUID LOUNGE",
