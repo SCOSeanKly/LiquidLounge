@@ -25,6 +25,7 @@
 	],
 	"appBackgroundColour": "dcdcdc",
 	"animatedGearColour": "d638a5",
+	"isShowingThumbName": "false",
 	"appBackgroundImageUrl": "https://raw.githubusercontent.com/SCOSeanKly/LiquidLounge/main/backgroundImage/IMG_2100.JPG",
 	"title": "LIQUID LOUNGE",
 	"titleColour": "f3f3f3",
