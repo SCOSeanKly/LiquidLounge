@@ -1,11 +1,7 @@
 {
 	"imageUrlsLowRes": [
 		{
-"wallColour": "Blue",
-"wallType": "Abstract",
-"lowResUrl": "wallImagesLowRes/IMG_0028.jpg",
-"highResUrl": "wallImages/IMG_0028.jpg"
-},
+		"wallImagesLowRes/IMG_0028.jpg",
 		"wallImagesLowRes/IMG_0086.jpg",
 		"wallImagesLowRes/IMG_0420.jpg",
 		"wallImagesLowRes/IMG_0426.jpg",
@@ -26,6 +22,7 @@
 		"wallImagesLowRes/IMG_9873.jpg"
 	],
 	"imageUrls": [
+		"wallImages/IMG_0028.jpg",
 		"wallImages/IMG_0086.jpg",
 		"wallImages/IMG_0420.jpg",
 		"wallImages/IMG_0426.jpg",
