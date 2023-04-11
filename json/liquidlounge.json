@@ -1,5 +1,6 @@
 {
 	"imageUrlsLowRes": [
+	"wallImagesLowRes/LiquidLounge54.jpg",
 		"wallImagesLowRes/LiquidLounge1.jpg",
 		"wallImagesLowRes/LiquidLounge2.jpg",
 		"wallImagesLowRes/LiquidLounge3.jpg",
@@ -53,10 +54,12 @@
 		"wallImagesLowRes/LiquidLounge51.jpg",
 		"wallImagesLowRes/LiquidLounge52.jpg",
 		"wallImagesLowRes/LiquidLounge53.jpg"
+		
 
 
 	],
 	"imageUrls": [
+	"wallImages/LiquidLounge54.jpg",
 		"wallImages/LiquidLounge1.jpg",
 		"wallImages/LiquidLounge2.jpg",
 		"wallImages/LiquidLounge3.jpg",
@@ -110,6 +113,7 @@
 		"wallImages/LiquidLounge51.jpg",
 		"wallImages/LiquidLounge52.jpg",
 		"wallImages/LiquidLounge53.jpg"
+		
 	],
 	"appBackgroundColour": "131a1d",
 	"animatedGearImage" : "gearshape.fill",
