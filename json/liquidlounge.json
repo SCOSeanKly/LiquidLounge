@@ -48,7 +48,7 @@
 	"appBackgroundImageUrl": "https://raw.githubusercontent.com/SCOSeanKly/LiquidLounge/main/backgroundImage/YOURIMAGE.jpg",
 	"title": "WALLPAPERS",
 	"iOSFontsList": "https://iosfontlist.com/#availability=10.0&preinstalled",
-	"titleFont": "",
+	"titleFont": "HelveticaNeue-Bold",
 	"titleColour": "ffffff",
 	"creator": "by Artemis Prime",
 	"creatorFont": "",
