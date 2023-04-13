@@ -119,7 +119,7 @@
 		"wallImages/LiquidLounge53.jpg"
 		
 	],
-	"appBackgroundColour": "f3f3f3",
+	"appBackgroundColour": "090909",
 	"animatedGearImage" : "gearshape.fill",
 	"animatedGearColour": "DD4735",
 	"isShowingThumbHex": "true",
@@ -127,10 +127,10 @@
 	"title": "WALLPAPERS",
 	"iOSFontsList": "https://iosfontlist.com/#availability=10.0&preinstalled",
 	"titleFont": "HelveticaNeue-Bold",
-	"titleColour": "000000",
+	"titleColour": "ffffff",
 	"creator": "by Artemis Prime",
 	"creatorFont": "",
-	"creatorColour": "242424",
+	"creatorColour": "D7D5DA",
 	"creatorImageUrl": "https://raw.githubusercontent.com/SCOSeanKly/LiquidLounge/main/profilePicture/profile.jpg",
 	"informationHeader": "INFORMATION",
 	"informationText": "Wallpaper images shown in this app are artistic works and you as a user need the permission of the owner if you want to perform certain acts, such as copying the image or sharing it on the internet. Always contact the owner of the images first.",
