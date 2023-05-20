@@ -1,6 +1,7 @@
 {
     "imageUrlsLowRes":
     [
+        "wallImagesLowRes/LiquidLounge136.jpg",
         "wallImagesLowRes/LiquidLounge135.jpg",
         "wallImagesLowRes/LiquidLounge134.jpg",
         "wallImagesLowRes/LiquidLounge133.jpg",
@@ -139,6 +140,7 @@
     ],
     "imageUrls":
     [
+        "wallImages/LiquidLounge136.jpg",
         "wallImages/LiquidLounge135.jpg",
         "wallImages/LiquidLounge134.jpg",
         "wallImages/LiquidLounge133.jpg",
