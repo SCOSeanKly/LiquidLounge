@@ -1,7 +1,7 @@
 {
     "imageUrlsLowRes":
     [
-        "wallImagesLowRes/LiquidLounge160.jpg",
+        "wallImagesLowRes/*LiquidLounge160.jpg",
         "wallImagesLowRes/LiquidLounge159.jpg",
         "wallImagesLowRes/LiquidLounge158.jpg",
         "wallImagesLowRes/LiquidLounge157.jpg",
@@ -325,7 +325,7 @@
         "wallImages/LiquidLounge52.jpg",
         "wallImages/LiquidLounge53.jpg"
     ],
-    "appBackgroundColour": "494D50",
+    "appBackgroundColour": "FFEAD2",
     "animatedGearImage": "gearshape.fill",
     "animatedGearColour": "242424",
     "isShowingThumbHex": "true",
