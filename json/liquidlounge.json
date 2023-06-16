@@ -2,7 +2,7 @@
     "imageUrlsLowRes":
     [
         "wallImagesLowRes/LiquidLounge161.jpg"
-        "wallImagesLowRes/LiquidLounge160.jpg",
+        "wallImagesLowRes/*LiquidLounge160.jpg",
         "wallImagesLowRes/LiquidLounge159.jpg",
         "wallImagesLowRes/LiquidLounge158.jpg",
         "wallImagesLowRes/LiquidLounge157.jpg",
